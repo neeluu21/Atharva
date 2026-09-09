@@ -547,3 +547,7 @@ sudo lynis audit system
 - Test every change in a **staging/snapshot environment** first if possible.
 - Keep a second SSH session open when modifying `sshd_config` or firewall rules.
 - Document any deviation from this checklist (e.g., a port left open for a specific service) directly in this file for future reference.
+
+
+
+--plknn
